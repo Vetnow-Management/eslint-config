@@ -1,0 +1,71 @@
+{
+  "name": "@cade-tecnologia/eslint-config",
+  "version": "1.0.1",
+  "description": "Sets of configurations of ESLint",
+  "files": [
+    "react-typescript.js",
+    "typescript.js",
+    "react.js",
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "engines": {
+    "node": "12.18.1"
+  },
+  "author": {
+    "name": "Mateus Gomes da Silva Cardoso",
+    "email": "mateus7532@gmail.com",
+    "url": "https://www.linkedin.com/in/mateus-gomes-da-silva-cardoso"
+  },
+  "maintainers": [
+    {
+      "name": "Mateus Gomes da Silva Cardoso",
+      "email": "mateus7532@gmail.com",
+      "url": "https://www.linkedin.com/in/mateus-gomes-da-silva-cardoso"
+    }
+  ],
+  "keywords": [
+    "cade",
+    "cade-tecnologia",
+    "config",
+    "eslint",
+    "prettier"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "7.2.0",
+    "eslint-config-airbnb": "18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "4.0.0",
+    "rollup": "^2.23.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.3",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "7.2.0",
+    "eslint-config-airbnb": "18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "4.0.0",
+    "prettier": "^2.0.5",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.3",
+    "typescript": "^3.9.7"
+  }
+}
