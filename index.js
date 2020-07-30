@@ -75,7 +75,7 @@ module.exports = {
     'no-warning-comments':['warn'],
 
     // Variables
-    'no-unused-vars': ['error', {
+    'no-unused-vars': ['warn', {
       argsIgnorePattern: '^_',
       varsIgnorePattern: '^_',
     }],
