@@ -77,6 +77,7 @@ module.exports = {
     // Variables
     'no-unused-vars': ['error', {
       argsIgnorePattern: '^_',
+      varsIgnorePattern: '^_',
     }],
 
     'import/extensions': [
