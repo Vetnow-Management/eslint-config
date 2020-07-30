@@ -1,3 +1,7 @@
+function eae(_) {
+  return 1 + 2;
+}
+
 module.exports = {
   env: {
     browser: true,
@@ -71,7 +75,9 @@ module.exports = {
     'no-warning-comments':['warn'],
 
     // Variables
-    'no-unused-vars': ['error'],
+    'no-unused-vars': ['error', {
+      argsIgnorePattern: '^_',
+    }],
 
     'import/extensions': [
       'error',

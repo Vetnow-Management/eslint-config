@@ -16,7 +16,9 @@ module.exports = {
     'no-unused-vars': ['off'],
 
     // TypeScript
-    '@typescript-eslint/no-unused-vars': ['error'],
+    '@typescript-eslint/no-unused-vars': ['error', {
+      argsIgnorePattern: '^_',
+    }],
     '@typescript-eslint/explicit-member-accessibility': 'off',
     '@typescript-eslint/no-object-literal-type-assertion': 'off',
     '@typescript-eslint/adjacent-overload-signatures': 2,
