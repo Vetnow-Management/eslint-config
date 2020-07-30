@@ -68,6 +68,7 @@ module.exports = {
     'array-callback-return': 'error',
     'block-scoped-var': 'error',
     'class-methods-use-this': 'off',
+    'no-warning-comments':['warn'],
 
     // Variables
     'no-unused-vars': ['error'],
