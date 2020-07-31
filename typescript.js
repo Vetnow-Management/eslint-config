@@ -7,7 +7,7 @@ module.exports = {
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.ts', '.js'],
+        extensions: ['.ts', '.js', 'json'],
       },
     },
   },
@@ -79,6 +79,7 @@ module.exports = {
       {
         ts: 'never',
         js: 'never',
+        mjs: 'never',
       },
     ],
   },

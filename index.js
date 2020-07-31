@@ -10,7 +10,7 @@ module.exports = {
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.js'],
+        extensions: ['.js', '.json'],
       },
     },
   },
@@ -81,6 +81,7 @@ module.exports = {
       'ignorePackages',
       {
         js: 'never',
+        mjs: 'never'
       },
     ]
   },
