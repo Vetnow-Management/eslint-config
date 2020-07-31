@@ -1,7 +1,3 @@
-function eae(_) {
-  return 1 + 2;
-}
-
 module.exports = {
   env: {
     browser: true,
