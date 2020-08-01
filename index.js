@@ -32,7 +32,7 @@ module.exports = {
     'no-console': 'warn',
     'no-constant-condition': 'error',
     'no-control-regex': 'error',
-    'no-debugger': 'error',
+    'no-debugger': 'warn',
     'no-dupe-args': 'error',
     'no-dupe-else-if': 'error',
     'no-dupe-keys': 'error',
