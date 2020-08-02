@@ -10,6 +10,9 @@ module.exports = {
         extensions: ['.ts', '.js', 'json'],
       },
     },
+    react: {
+      version: 'detect',
+    }
   },
   rules: {
     // eslint

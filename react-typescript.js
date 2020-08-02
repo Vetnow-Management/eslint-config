@@ -9,6 +9,9 @@ module.exports = {
         extensions: ['.ts', '.js', '.tsx', '.jsx', '.json'],
       },
     },
+    react: {
+      version: 'detect',
+    },
   },
   rules: {
     'react/jsx-filename-extension': ['error', { extensions: ['.tsx'] }],
