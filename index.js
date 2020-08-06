@@ -37,7 +37,7 @@ module.exports = {
     'no-dupe-else-if': 'error',
     'no-dupe-keys': 'error',
     'no-duplicate-case': 'error',
-    'no-empty': ['error', { allowEmptyCatch: true }],
+    'no-empty': ['warn', { allowEmptyCatch: true }],
     'no-empty-character-class': 'error',
     'no-ex-assign': 'error',
     'no-extra-boolean-cast': 'error',
