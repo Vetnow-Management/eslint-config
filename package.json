@@ -11,9 +11,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "engines": {
-    "node": ">=0.12"
-  },
   "author": {
     "name": "Mateus Gomes da Silva Cardoso",
     "email": "mateus7532@gmail.com",
