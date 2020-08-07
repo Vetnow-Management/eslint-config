@@ -1,6 +1,6 @@
 {
   "name": "@cade-tecnologia/eslint-config",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Sets of configurations of ESLint",
   "files": [
     "react-typescript.js",
