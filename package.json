@@ -1,5 +1,5 @@
 {
-  "name": "@cade-tecnologia/eslint-config",
+  "name": "@vetnow-management/eslint-config",
   "version": "1.0.15",
   "description": "Sets of configurations of ESLint",
   "files": [
