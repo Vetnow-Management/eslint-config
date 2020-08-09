@@ -8,9 +8,6 @@
     "react.js",
     "index.js"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": {
     "name": "Mateus Gomes da Silva Cardoso",
     "email": "mateus7532@gmail.com",
