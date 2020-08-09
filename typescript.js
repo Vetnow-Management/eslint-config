@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@cade-tecnologia/eslint-config',
+    '@vetnow-management/eslint-config',
   ],
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint', 'import'],

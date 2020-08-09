@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@cade-tecnologia/eslint-config'
+    '@vetnow-management/eslint-config'
   ],
   "plugins": [
     "react",

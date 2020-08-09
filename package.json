@@ -20,6 +20,10 @@
       "url": "https://www.linkedin.com/in/mateus-gomes-da-silva-cardoso"
     }
   ],
+  "repository": {
+    "url": "https://github.com/Vetnow-Management/eslint-config",
+    "type": "git"
+  },
   "keywords": [
     "cade",
     "cade-tecnologia",

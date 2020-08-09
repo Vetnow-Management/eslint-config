@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
-    '@cade-tecnologia/eslint-config/react',
-    '@cade-tecnologia/eslint-config/typescript',
+    '@vetnow-management/eslint-config/react',
+    '@vetnow-management/eslint-config/typescript',
   ],
   settings: {
     'import/resolver': {
