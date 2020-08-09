@@ -1,5 +1,7 @@
 # Set of eslint rules
 
+![Continuous Integration](https://github.com/Vetnow-Management/eslint-config/workflows/Continuous%20Integration/badge.svg)
+
 ## Todos
 
 - Configurar regras
