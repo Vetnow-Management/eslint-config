@@ -1,7 +1,6 @@
 module.exports = {
   env: {
-    browser: true,
-    es2020: true,
+    "es12": true
   },
   globals: {
     Atomics: 'readonly',
@@ -19,7 +18,7 @@ module.exports = {
   ],
   parserOptions: {
     sourceType: 'module',
-    ecmaVersion: 2018,
+    ecmaVersion: 12,
   },
   rules: {
     // Possible Errors
